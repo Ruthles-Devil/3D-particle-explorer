@@ -23,4 +23,3 @@ Teal glowing spheres (10k particles) with additive blending. Five templates swit
 
 **Adding templates**: Define `init_newshape`, add to `self.templates` dict and combo box.
 
-Sources
